@@ -18,3 +18,7 @@ to compile, then run:
 `java -cp ../../ dev/challenge/AccessManager [command] [args]`
 
 to test the commands.
+
+### or
+
+Open the project using an IDE and set Program Arguments (SHIFT+ALT+F10 for IntelliJ) then Build & Run.
